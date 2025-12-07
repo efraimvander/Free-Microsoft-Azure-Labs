@@ -9,7 +9,7 @@ Este repositório centraliza laboratórios gratuitos (simulados) para certifica�
 | ------------ | ------------------------------ | ---------------------------------------------------- |
 | **AZ-104**   | Azure Administrator            | [https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) |
 | **AZ-500**   | Azure Security                 | [https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) |
-| **AZ-700**   | Azure Networking               | [https://lnkd.in/g_4cg4SF](https://lnkd.in/g_4cg4SF) |
+| **AZ-700**   | Azure Networking               | [https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/) |
 | **AZ-305**   | Azure Architect                | [https://lnkd.in/g3fGZSWr](https://lnkd.in/g3fGZSWr) |
 | **AZ-140**   | Azure Virtual Desktop          | [https://lnkd.in/guyYeBu2](https://lnkd.in/guyYeBu2) |
 | **AZ-800**   | Windows Server Hybrid Core     | [https://lnkd.in/gbuVGcpm](https://lnkd.in/gbuVGcpm) |
