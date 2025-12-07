@@ -7,7 +7,7 @@ Este repositório centraliza laboratórios gratuitos (simulados) para certifica�
 
 | Certificação | Descrição                      | Link                                                 |
 | ------------ | ------------------------------ | ---------------------------------------------------- |
-| **AZ-104**   | Azure Administrator            | [https://lnkd.in/gNhrvxYU](https://lnkd.in/gNhrvxYU) |
+| **AZ-104**   | Azure Administrator            | [https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) |
 | **AZ-500**   | Azure Security                 | [https://lnkd.in/gtkisVEH](https://lnkd.in/gtkisVEH) |
 | **AZ-700**   | Azure Networking               | [https://lnkd.in/g_4cg4SF](https://lnkd.in/g_4cg4SF) |
 | **AZ-305**   | Azure Architect                | [https://lnkd.in/g3fGZSWr](https://lnkd.in/g3fGZSWr) |
