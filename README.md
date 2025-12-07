@@ -12,7 +12,7 @@ Este repositório centraliza laboratórios gratuitos (simulados) para certifica�
 | **AZ-700**   | Azure Networking               | [https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/) |
 | **AZ-305**   | Azure Architect                | [https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/) |
 | **AZ-140**   | Azure Virtual Desktop          | [https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/](https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/) |
-| **AZ-800**   | Windows Server Hybrid Core     | [https://lnkd.in/gbuVGcpm](https://microsoftlearning.github.io/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/) |
+| **AZ-800**   | Windows Server Hybrid Core     | [https://microsoftlearning.github.io/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/](https://microsoftlearning.github.io/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/) |
 | **AZ-801**   | Windows Server Hybrid Advanced | [https://microsoftlearning.github.io/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/](https://lnkd.in/gdriz7z3) |
 | **SC-300**   | Identity & Access              | [https://lnkd.in/gPJDYF3t](https://lnkd.in/gPJDYF3t) |
 | **AZ-400**   | DevOps Engineer                | [https://lnkd.in/g52DNbhd](https://lnkd.in/g52DNbhd) |
