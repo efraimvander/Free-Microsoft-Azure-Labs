@@ -15,4 +15,4 @@ Este repositório centraliza laboratórios gratuitos (simulados) para certifica�
 | **AZ-800**   | Windows Server Hybrid Core     | [https://microsoftlearning.github.io/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/](https://microsoftlearning.github.io/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/) |
 | **AZ-801**   | Windows Server Hybrid Advanced | [https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/) |
 | **SC-300**   | Identity & Access              | [https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/) |
-| **AZ-400**   | DevOps Engineer                | [https://lnkd.in/g52DNbhd](https://lnkd.in/g52DNbhd) |
+| **AZ-400**   | DevOps Engineer                | [https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/) |
